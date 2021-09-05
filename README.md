@@ -6,8 +6,6 @@ Learning how to use github and git
 
 Some text is here
 
-## one more subhead
+## local development
 
-Here is some more text
-
-Hello
+open index.html in your browser
